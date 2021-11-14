@@ -1,0 +1,18 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "cd frontend && yarn start",
+    "server": "cd backend && yarn server"
+  },
+  "repository": "git@github.com:UT0903/wp_final.git",
+  "author": "UT0903 <b07902048@ntu.edu.tw>",
+  "dependencies": {
+    "gapi-script": "^1.2.0",
+    "mongoose": "^5.12.12",
+    "react-meta-tags": "^1.0.1",
+    "react-script-tag": "^1.1.2"
+  }
+}
